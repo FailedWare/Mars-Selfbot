@@ -5,7 +5,7 @@ A selfbot tool for discord clients.
 - Go into the file and look for ``Token = ""`` put your token in between the ``""``
 
 ### Startup
-- After you have put the Token in you can start the python file by either using your IDE's terminal or your OS' terminal
+After you have put the Token in you can start the python file by either using your IDE's terminal or your OS' terminal
 
 - In your IDE just click your start button (if you have one)
 
