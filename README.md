@@ -18,3 +18,6 @@ After you have put the Token in you can start the python file by either using yo
 
 ### Browser support
 I can or cannot confirm browser support for ***Mars-Selfbot*** if anybody would like to test that for me go ahead!
+
+
+FYI: if you see any left-over tokens from me ***go-ahead*** login as me, you cant.
