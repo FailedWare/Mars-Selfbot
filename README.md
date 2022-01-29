@@ -12,4 +12,4 @@ A selfbot tool for discord clients.
 - In your OS' terminal just do python ***file-location*** (should start it up)
 
 ### Browser support
-- I can or cannot confirm browser support for ***Mars-Selfbot*** if anybody would like to test that for me go ahead!
+I can or cannot confirm browser support for ***Mars-Selfbot*** if anybody would like to test that for me go ahead!
