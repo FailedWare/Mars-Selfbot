@@ -14,7 +14,7 @@ async def on_ready():
 @client.command()
 async def git(ctx):
     await ctx.send("***Only ever download Mars-SB from github.***")
-    await ctx.send("https://github.com/FailedWare//")
+    await ctx.send("https://github.com/FailedWare/Mars-Selfbot/")
 
 @client.command()
 async def help(ctx):
