@@ -20,4 +20,9 @@ After you have put the Token in you can start the python file by either using yo
 I can or cannot confirm browser support for ***Mars-Selfbot*** if anybody would like to test that for me go ahead!
 
 
-FYI: if you see any left-over tokens from me ***go-ahead*** login as me, you cant.
+You may need to install ***discord.py*** if so read this below.
+
+### discord.py installation
+- Create a dedicated file for Mars-Selfbot
+- Open your Terminal and type in ``cd (file's location)`` Windows users will first have to cd into the Desktop location by doing ``cd Desktop`` then run the ``cd (file's location``
+- While you are still in the Terminal and type in ``pip install discord`` ***Python will be required***
