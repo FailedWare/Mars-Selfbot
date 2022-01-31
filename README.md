@@ -26,3 +26,6 @@ You may need to install ***discord.py*** if so read this below.
 - Create a dedicated file for Mars-Selfbot
 - Open your Terminal and type in ``cd (file's location)`` Windows users will first have to cd into the Desktop location by doing ``cd Desktop`` then run the ``cd (file's location``
 - While you are still in the Terminal and type in ``pip install discord`` ***Python will be required***
+
+### Known Issues
+No Issues to report (cool)
