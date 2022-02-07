@@ -3,12 +3,12 @@ A selfbot tool for discord clients.
 
 ### How to get your Token
 
-## Option 1
+### Option 1
   This works best on a ***personal server***
     - Go into the Discord browser version and press Ctrl+Shift+I then press Ctrl+R in the prompt that just opened and type in the search bar ***messages***
     - Look for ***Authority*** or ***Authorization*** and copy the value (That value is your Token) this will be used later.
     
-## Option 2
+### Option 2
 Use a Discord Mod/Hack to grab your token for you.
 
 ### Pre-Startup
