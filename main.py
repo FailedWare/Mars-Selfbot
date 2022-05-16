@@ -72,5 +72,8 @@ async def roblox(ctx):
     await ctx.send("***ROBLOX***")
     await ctx.send("https://cdn.discordapp.com/attachments/957160927290081362/975883710169776188/bf6a2f38ead84b9a73c38c78937e45810b11faf2r1-1048-944v2_hq.jpg")
 
+@client.command()
+async def balls(ctx):
+    await ctx.send("I have balls")
 
 client.run(token, bot=False)
