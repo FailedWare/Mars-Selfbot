@@ -30,4 +30,4 @@ You may need to install ***discord.py*** if so read this below.
 - While you are still in the Terminal and type in ``pip install discord`` ***Python will be required***
 
 ### Known Issues
-No Issues to report (cool)
+I'm bad at Python (awesome)
