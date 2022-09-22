@@ -21,9 +21,6 @@ After you have put the Token in you can start the python file by either using yo
 
 - In your OS' terminal just do python ***file-location*** (should start it up)
 
-### Browser support
-I can or cannot confirm browser support for ***Mars-Selfbot*** if anybody would like to test that for me go ahead!
-
 
 You may need to install ***discord.py*** if so read this below.
 
