@@ -1,4 +1,4 @@
-## Mars-Selfbot
+## Mars-Selfbot (Deprecated)
 A selfbot tool for discord clients.
 
 ### How to get your Token
